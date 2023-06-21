@@ -19,7 +19,7 @@
       "type": "string"
     },
     "cover": {
-      "allowedTypes": ["images", "files", "videos", "audios"],
+      "allowedTypes": ["images"],
       "type": "media",
       "multiple": false
     },
